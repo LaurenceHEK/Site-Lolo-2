@@ -1,0 +1,12 @@
+h1{
+color: brown;
+background-color: darkgoldenrod;
+text-align: left;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#composants{
+    font-size: larger;
+    .rouge
+    {color: crimson;}
+}
